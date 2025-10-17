@@ -1,16 +1,16 @@
 # whytwokay.nvim
 
-A high-contrast **Y2K-era inspired** Neovim colorscheme — phosphor limes, glass blacks, and CRT blues tuned for *readability and retro-future glow*.
+A high-contrast **Y2K-era inspired** Neovim colorscheme - phosphor limes, glass blacks, and CRT blues tuned for *readability and retro-future glow*.
 
 ![whytwokay preview](https://user-images.githubusercontent.com/.../whytwokay-preview.png)
 
 ---
 
 ## ✨ Features
-- Balanced neon palette — readable acid green & phosphor yellow without eye strain
+- Balanced neon palette - readable acid green & phosphor yellow without eye strain
 - Designed for both GUI and terminal (`termguicolors` enabled)
 - Native ANSI mapping for terminal buffers
-- Fully Lua-based — no Vimscript dependencies
+- Fully Lua-based - no Vimscript dependencies
 - Supports Treesitter, LSP diagnostics, and diff views
 - Optional transparency toggle
 
@@ -75,15 +75,8 @@ use({
 
 > *“Retro screens, modern eyes.”*
 
-**whytwokay** aims to evoke the translucent plastics, phosphor glow, and bitmap text of early-2000s UI — but engineered for today’s displays and long coding sessions.
-It’s aggressive in tone but soft in luminance — vibrant, legible, and fast on the eyes.
-
----
-
-## 📦 Roadmap
-- [ ] Add light variant (“glassphor-day”)
-- [ ] Provide Lualine / Feline theme
-- [ ] Add semantic tokens for TypeScript, Rust, and Python
+**whytwokay** aims to evoke the translucent plastics, phosphor glow, and bitmap text of early-2000s UI - but engineered for today’s displays and long coding sessions.
+It’s aggressive in tone but soft in luminance - vibrant, legible, and fast on the eyes.
 
 ---
 
@@ -93,5 +86,5 @@ It’s aggressive in tone but soft in luminance — vibrant, legible, and fast o
 ---
 
 ## 🧩 Related Ports
-- [Ghostty theme](https://github.com/jakezach/whytwokay-ghostty)
+- Ghostty Theme coming soon
 - VS Code & Obsidian variants coming soon
