@@ -1,8 +1,6 @@
 # whytwokay.nvim
 
 A high-contrast **Y2K-era inspired** Neovim colorscheme - phosphor limes, glass blacks, and CRT blues tuned for *readability and retro-future glow*.
-
-![whytwokay preview](imgs/main.png)
 ![whytwokay preview](imgs/text.png)
 
 ---
