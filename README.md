@@ -7,7 +7,7 @@ A high-contrast **Y2K-era inspired** Neovim colorscheme - phosphor limes, glass 
 
 ---
 
-## ✨ Features
+## Features
 - Balanced neon palette - readable acid green & phosphor yellow without eye strain
 - Designed for both GUI and terminal (`termguicolors` enabled)
 - Native ANSI mapping for terminal buffers
@@ -17,7 +17,7 @@ A high-contrast **Y2K-era inspired** Neovim colorscheme - phosphor limes, glass 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Using [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lua
@@ -46,16 +46,7 @@ use({
 
 ---
 
-## 🧪 Options
-| Option | Type | Default | Description |
-|--------|------|----------|-------------|
-| `transparent` | boolean | `false` | Disable background on Normal/Float groups |
-| `styles` | table | `{}` | Style toggles (e.g., italics for comments) |
-| `terminal` | boolean | `true` | Apply terminal ANSI colors automatically |
-
----
-
-## 🎨 Palette
+## Palette
 
 | Role | Hex | Description |
 |------|-----|-------------|
@@ -72,7 +63,7 @@ use({
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 > *“Retro screens, modern eyes.”*
 
@@ -81,11 +72,8 @@ It’s aggressive in tone but soft in luminance - vibrant, legible, and fast on 
 
 ---
 
-## 📜 License
+## License
 [MIT License](./LICENSE) © 2025 Jacob Zacharia
 
 ---
 
-## 🧩 Related Ports
-- Ghostty Theme coming soon
-- VS Code & Obsidian variants coming soon
