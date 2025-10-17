@@ -1,4 +1,4 @@
-# whytwokay.nvim
+# ytwoK.nvim
 
 A high-contrast **Y2K-era inspired** Neovim colorscheme - phosphor limes, glass blacks, and CRT blues tuned for *readability and retro-future glow*.
 ![whytwokay preview](imgs/text.png)
@@ -20,13 +20,13 @@ A high-contrast **Y2K-era inspired** Neovim colorscheme - phosphor limes, glass 
 ### Using [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lua
 {
-  "jakezach/whytwokay.nvim",
+  "jakezach/ytwoK.nvim",
   priority = 1000,
   config = function()
     require("whytwokay").setup({
       transparent = false, -- set true for no background
     })
-    vim.cmd.colorscheme("whytwokay")
+    vim.cmd.colorscheme("ytwoK")
   end,
 }
 ```
@@ -34,10 +34,10 @@ A high-contrast **Y2K-era inspired** Neovim colorscheme - phosphor limes, glass 
 ### Using packer.nvim
 ```lua
 use({
-  "jakezach/whytwokay.nvim",
+  "jakezach/ytwoK.nvim",
   config = function()
     require("whytwokay").setup({})
-    vim.cmd("colorscheme whytwokay")
+    vim.cmd("colorscheme ytwoK")
   end,
 })
 ```
@@ -65,7 +65,7 @@ use({
 
 > *“Retro screens, modern eyes.”*
 
-**whytwokay** aims to evoke the translucent plastics, phosphor glow, and bitmap text of early-2000s UI - but engineered for today’s displays and long coding sessions.
+**ytwoK** aims to evoke the translucent plastics, phosphor glow, and bitmap text of early-2000s UI - but engineered for today’s displays and long coding sessions.
 It’s aggressive in tone but soft in luminance - vibrant, legible, and fast on the eyes.
 
 ---
